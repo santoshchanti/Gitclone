@@ -1,0 +1,10 @@
+1. Please find the attached documents Linux practicals and shell Scripting.
+
+Linux practicals: chapter1, 4,5,6,7,8,9 10,11,23,32,33,34,35,37
+Shell Scripting : your wish if u want to learn scripting
+
+youtube link:https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
+                    :https://www.youtube.com/watch?v=2PGnYjbYuUo
+
+
+https://www.youtube.com/watch?v=5E6empfmnHo&list=PLiqd6ve_GIw8N2YNkTEQw-FQqpWl48RvE
