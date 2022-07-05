@@ -6,5 +6,75 @@ Shell Scripting : your wish if u want to learn scripting
 youtube link:https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
                     :https://www.youtube.com/watch?v=2PGnYjbYuUo
 
-
+-------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=5E6empfmnHo&list=PLiqd6ve_GIw8N2YNkTEQw-FQqpWl48RvE
+
+
+linux commands in cmd prompt 
+https://www.youtube.com/watch?v=tKYfsfQqa9w
+
+-------------------------------------------------------------------------------------
+
+Token git hub
+
+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
+--------------------------------------------------------------------------------------
+Git 
+
+https://www.youtube.com/watch?v=S899mpA2cEc
+https://www.youtube.com/watch?v=Uql4qdk2XiM
+https://www.youtube.com/watch?v=WbwIoQYP6no
+https://www.youtube.com/watch?v=LIhE7L__E6M   6hrs
+https://www.youtube.com/watch?v=8JJ101D3knE
+https://www.youtube.com/watch?v=eeuNAIZoWRU
+https://www.youtube.com/watch?v=HCeBd5GKNO8
+
+-------------------------------------------------------------------------------------
+Docker
+
+https://www.youtube.com/watch?v=WDWB3-uId2U
+https://www.youtube.com/watch?v=72LG34wIWI8
+https://www.youtube.com/watch?v=5E6empfmnHo&list=PLiqd6ve_GIw8N2YNkTEQw-FQqpWl48RvE
+https://www.youtube.com/results?search_query=docker+by+rushi
+https://www.youtube.com/watch?v=RSIstPUiEjY
+
+
+
+-------------------------------------------------------------------------------------
+Maven
+
+https://www.youtube.com/watch?v=hKr3HxvCiuU
+https://www.youtube.com/watch?v=vcuCIv-gInw
+
+-------------------------------------------------------------------------------------
+Jenkins instalaltion
+https://www.youtube.com/watch?v=YhS7J7RpqP4
+
+
+Jenkins by rushi class1
+https://www.youtube.com/watch?v=58lJ6-4EYog
+Jenkins by rushi class2
+https://www.youtube.com/watch?v=kJE_8kcdzDM
+----------------------------------------------------------------
+
+CI/CD Pipeline
+https://www.youtube.com/watch?v=m0a2CzgLNsc
+
+
+
+
+
+
+
+https://gvido.zendesk.com/agent/dashboard
+
+https://sso.secureserver.net/?app=email&realm=pass&path=%2Fwebmail.php%3Ffbclid%3DIwAR2uTAdH394W_vqPUKfRBIO6kEXbQrC8YaVTd53v7vnoP44BP6Q0qu0pRak
+
+
+
+
+docker: unrecognized service
+https://www.youtube.com/watch?v=JR-Q2_SJmPY
+
+System has not been booted with systemd as init system (PID 1). Can't operate. Failed to connect to bus: Host is down
+https://www.youtube.com/watch?v=oILBqhnyCPA

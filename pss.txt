@@ -1,1 +1,59 @@
 Devaanshi2207@#
+
+https://docs.microsoft.com/en-us/windows/wsl/install
+------------------------------------------------------
+Mobaxterm
+
+https://mobaxterm.mobatek.net/download.htlm
+----------------------------------------------------------
+Jenkins installation
+
+Step 1 — Installing Jenkins
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key |sudo gpg --dearmor -o /usr/share/keyrings/jenkins.gpg
+
+sudo sh -c 'echo deb [signed-by=/usr/share/keyrings/jenkins.gpg] http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+
+sudo apt update
+
+sudo systemctl start jenkins.service
+
+Step 2 — Starting Jenkins
+
+now that Jenkins is installed, start it by using systemctl:
+sudo systemctl start jenkins.service
+
+Since systemctl doesn’t display status output, we’ll use the status command to verify that Jenkins started successfully:
+
+    sudo systemctl status jenkins
+
+If everything went well, the beginning of the status output shows that the service is active and configured to start at boot:
+
+Step 3 — Opening the Firewall
+sudo ufw allow 8080
+sudo ufw allow OpenSSH
+sudo ufw enable
+
+sudo ufw status
+
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+Currently (26th May 2015) docker.io is only in Testing & Sid. I have Docker version 1.6.2, build 7c8fca2 running in Jessie without any problems:
+
+apt-get install -y apt-transport-https
+echo "deb https://get.docker.com/ubuntu docker main" > /etc/apt/sources.list.d/docker.list
+apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9
+apt-get update
+apt-get install -y lxc-docker
+# if you have the old docker.io installed previously
+update-rc.d docker remove
+mv /etc/init.d/docker /etc/init.d/docker.old
+systemctl unmask docker
+systemctl unmask docker.socket
+systemctl enable docker
